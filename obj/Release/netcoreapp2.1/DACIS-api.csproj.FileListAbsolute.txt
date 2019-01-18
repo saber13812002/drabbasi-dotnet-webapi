@@ -1,0 +1,14 @@
+C:\Users\taba\Documents\DACIS\DACIS WebServices\DACIS-api\bin\Release\netcoreapp2.1\DACIS-api.deps.json
+C:\Users\taba\Documents\DACIS\DACIS WebServices\DACIS-api\bin\Release\netcoreapp2.1\DACIS-api.runtimeconfig.json
+C:\Users\taba\Documents\DACIS\DACIS WebServices\DACIS-api\bin\Release\netcoreapp2.1\DACIS-api.runtimeconfig.dev.json
+C:\Users\taba\Documents\DACIS\DACIS WebServices\DACIS-api\bin\Release\netcoreapp2.1\DACIS-api.dll
+C:\Users\taba\Documents\DACIS\DACIS WebServices\DACIS-api\bin\Release\netcoreapp2.1\DACIS-api.pdb
+C:\Users\taba\Documents\DACIS\DACIS WebServices\DACIS-api\obj\Release\netcoreapp2.1\DACIS-api.csprojAssemblyReference.cache
+C:\Users\taba\Documents\DACIS\DACIS WebServices\DACIS-api\obj\Release\netcoreapp2.1\DACIS-api.csproj.CoreCompileInputs.cache
+C:\Users\taba\Documents\DACIS\DACIS WebServices\DACIS-api\obj\Release\netcoreapp2.1\DACIS-api.RazorAssemblyInfo.cache
+C:\Users\taba\Documents\DACIS\DACIS WebServices\DACIS-api\obj\Release\netcoreapp2.1\DACIS-api.RazorAssemblyInfo.cs
+C:\Users\taba\Documents\DACIS\DACIS WebServices\DACIS-api\obj\Release\netcoreapp2.1\DACIS-api.AssemblyInfoInputs.cache
+C:\Users\taba\Documents\DACIS\DACIS WebServices\DACIS-api\obj\Release\netcoreapp2.1\DACIS-api.AssemblyInfo.cs
+C:\Users\taba\Documents\DACIS\DACIS WebServices\DACIS-api\obj\Release\netcoreapp2.1\DACIS-api.RazorTargetAssemblyInfo.cache
+C:\Users\taba\Documents\DACIS\DACIS WebServices\DACIS-api\obj\Release\netcoreapp2.1\DACIS-api.dll
+C:\Users\taba\Documents\DACIS\DACIS WebServices\DACIS-api\obj\Release\netcoreapp2.1\DACIS-api.pdb
